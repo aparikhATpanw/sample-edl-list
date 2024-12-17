@@ -1,3 +1,4 @@
+mail.google.com
 *.gmail.com
 *.yahoomail.com
 *.hotmail.com
