@@ -1,3 +1,13 @@
+invaliddomain
+1.2.3.4
+1.2.3
+com
+.
+
+.com
+invalidomain.*
+VALIDDOMAIN.com
+*.validdomain.com
 mooo.com
 chickenkiller.com
 us.to
