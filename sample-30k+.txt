@@ -3,6 +3,7 @@ invaliddomain
 1.2.3
 com
 .
+   
 
 .com
 invalidomain.*
