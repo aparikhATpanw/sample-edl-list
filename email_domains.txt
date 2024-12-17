@@ -1,0 +1,6 @@
+*.gmail.com
+*.yahoomail.com
+*.hotmail.com
+*.outlook.com
+*.aol.com
+
