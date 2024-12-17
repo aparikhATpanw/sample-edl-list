@@ -1,3 +1,5 @@
+*.*.com
+*.*.invalidline.com
 logitech.com
 invaliddomain
 1.2.3.4
