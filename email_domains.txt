@@ -2,6 +2,5 @@ mail.google.com
 *.gmail.com
 *.yahoomail.com
 *.hotmail.com
-*.outlook.com
+www.outlook.com
 *.aol.com
-
